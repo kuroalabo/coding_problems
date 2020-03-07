@@ -18,4 +18,5 @@ https://www.hackerrank.com/challenges/text-processing-cut-1/problem
 
 - 問題文の意味がよく分からなかった。
     - input ってなってるのが明らかに標準入力の文字列なのにファイルをinput するってのが謎だった。
-- 結果 discussion を見たら cat | cut で行けるよっていうコメントがあってその通りにしたら確かに cat した時点で標準入力を待つようになるならこれでいいのかって感じだった。
+- 結果 discussion を見たら cat | cut で行けるよっていうコメントがあってその通りにしたら確かに cat した時点で標準入力を待つようになるならこれでいいのかって感じだった。  
+ｇ

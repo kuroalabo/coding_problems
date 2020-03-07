@@ -16,4 +16,6 @@ https://www.hackerrank.com/challenges/text-processing-cut-2/problem
 
 ## 感想
 
-- 
+- 最初なぜ躓いたか分からなかったけどスペースが余分だったようである
+    - (誤): `cat | cut -c 2, 7`
+    - (正): `cat | cut -c 2,7`
