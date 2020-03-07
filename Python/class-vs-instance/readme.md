@@ -1,4 +1,4 @@
-# class-vs-instance
+# hackerrank_class-vs-instance
 
 # 目次
 
