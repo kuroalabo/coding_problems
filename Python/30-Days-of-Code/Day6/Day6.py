@@ -16,6 +16,7 @@ for i in range(0, number_of_test_case):
             even_string = even_string + given_string[j]
     print_string.append(odd_string + " " + even_string)
     # print_string[i] = odd_string + " " + even_string
+        # これダメ見たい
 
 
 for x in range(0, len(print_string)):
